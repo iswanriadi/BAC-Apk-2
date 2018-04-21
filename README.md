@@ -1,5 +1,5 @@
-# BAC-Apk-1
-*Pelatihan BAC | Aplikasi 1 | 21 April 2018*
+# BAC-Apk-2
+*Pelatihan BAC | Aplikasi 2 | 21 April 2018*
 
 - Intent
 - Checkbox
